@@ -11,8 +11,7 @@
   "tasks": {
     "build": {
       "name": "build",
-      "command": "pnpm run build",
-      "runAtStart": false
+      "command": "pnpm run build"
     },
     "dev": {
       "name": "dev",
@@ -24,13 +23,11 @@
     },
     "start": {
       "name": "start",
-      "command": "pnpm run start",
-      "runAtStart": false
+      "command": "pnpm run start"
     },
     "typecheck": {
       "name": "typecheck",
-      "command": "pnpm run typecheck",
-      "runAtStart": false
+      "command": "pnpm run typecheck"
     },
     "install": {
       "name": "install dependencies",
